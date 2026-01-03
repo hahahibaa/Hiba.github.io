@@ -48,7 +48,7 @@ An impact-oriented engineering student with strong interpersonal agility and a h
 
 ## Professional Experience  
 
-### Nomad Clothing  
+### physco scaling
 **Brand Manager**  
 *April 2025 – Present*  
 
