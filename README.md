@@ -12,8 +12,8 @@
 I am an impact-oriented engineering student who believes deeply in learning through experience, responsibility, and service. I have always approached challenges with a “can-learn, can-do” mindset—choosing effort and growth over giving up, even when the path feels unfamiliar or difficult.
 
 My leadership has grown naturally through hands-on experiences: working on engineering projects, stepping into community spaces to support education in underserved areas, and engaging with families to encourage learning and discipline. These experiences have taught me empathy, accountability, and the importance of showing up consistently, not just with ideas but with action.
-
 I am adaptable and people-oriented, comfortable working with individuals from different backgrounds and cultures. Whether in a technical setting or a community environment, I take ownership of my responsibilities and strive to create meaningful impact through sincerity, persistence, and purpose-driven work.
+
 ---
 
 ## Social Impact & Community Engagement  
