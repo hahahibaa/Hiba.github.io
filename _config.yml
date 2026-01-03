@@ -2,5 +2,4 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Hiba khan CV]
-logo: /images/hs.jpg
 description: [this site is to showcase my CV for my personal application for japan youth summit]
