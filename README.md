@@ -91,6 +91,24 @@ Developed a hardware-based electronic door locking system focusing on secure acc
 - Analyzed sales data, customer behavior, and website traffic to guide product launches and marketing strategies.  
 
 ---
+### Awards & Recognition
+
+3rd Place — NIT Bhopal Boat Racing Competition  
+Designed and built a custom high-speed RC boat using drone motors and custom propellers.
+
+4th Place — NIT Bhopal Boat Racing Competition  
+Participated with an improved RC boat design focusing on propulsion efficiency and stability.
+
+2nd Place — Drone Soccer League, IIIT Indore  
+Developed and operated a custom drone platform for competitive drone soccer, focusing on control systems and maneuverability.
+
+---
+### Recommendation
+
+Letter of Recommendation — Prof. Marcelo Caetano (PhD, Computer Music, UC San Diego)  
+Mentored during research work on Music Emotion Recognition (MER) under the Talaria research internship program.
+
+[View Letter](https://drive.google.com/file/d/1gPcBNNQ48Ujf3MTb_KB-MXwGyjRxQGjc/view?usp=drivesdk)
 
 
 ## Core Competencies  
