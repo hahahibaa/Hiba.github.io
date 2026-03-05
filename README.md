@@ -52,7 +52,7 @@ Conducted a literature review under Prof. Marcelo Caetano (UC San Diego) analyzi
 ### Arduino-Based rc controlled Boat
 Built a lightweight RC boat powered by dual 930KV BLDC drone motors with custom metal propellers and bicycle spoke shafts, using ESCs interfaced with an Arduino Nano and FlySky receiver for propulsion control.
 
-[View Project](https://github.com/hahahibaa/Arduino-nano-and-flight-controller-based-boat)
+[View Project](https://github.com/hahahibaa/Arduino-nano-and-flight-controller-based-boat.)
 
 ### Line Follower Robot (PID Control)
 Built an autonomous line follower robot using infrared sensors and PID control to achieve precise path detection and stable navigation with real-time feedback.
