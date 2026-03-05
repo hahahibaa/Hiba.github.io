@@ -32,20 +32,44 @@ I am adaptable and people-oriented, comfortable working with individuals from di
 
 ## Technical Projects & Research  
 
-- **EEG-Controlled Robotic Arm (Assistive Technology):**  
-  Designed a prototype robotic arm controlled via brain signals to support individuals with mobility impairments, integrating concepts from signal processing, electronics, and human-centered design.  
+### EMG-Controlled Robotic Hand
+Developed a robotic hand controlled using EMG muscle signals captured through gel electrodes and amplified using the BioAmp EXG Pill, with signal processing performed on an ESP32 for human–machine interaction.
 
-- **Music Emotion Recognition (MER) Research — Talaria Intern:**  
-  Conducted an extensive literature review under **Prof. Marcelo Caetano (UC San Diego)**, synthesizing developments in signal processing and deep learning-based MER systems from 2000–2025.  
+[View Project](https://github.com/hahahibaa/emg-controlled-robotic-hand-)
 
-- **MER Taxonomy Development:**  
-  Authored a research paper proposing a unified taxonomy for Music Emotion Recognition, bridging traditional handcrafted feature approaches with modern transformer-based architectures.  
+### ESP32 Mini Drone
+Implemented a compact ESP32-based drone flight controller integrating IMU sensing, wireless communication, and embedded control for lightweight aerial robotics experimentation.
 
-- **Line Follower Robot:**  
-  Built an autonomous robot using infrared sensors for accurate path detection and navigation, emphasizing real-time response and control logic.  
+[View Project](https://github.com/hahahibaa/esp-32-drone)
 
-- **Secure Door Locking System:**  
-  Developed a hardware-based electronic locking system focused on circuit reliability, user safety, and secure access control.  
+### Music Emotion Recognition (MER) Research — Talaria Intern
+Conducted a literature review under Prof. Marcelo Caetano (UC San Diego) analyzing signal processing and deep learning approaches for Music Emotion Recognition from 2000–2025.
+
+[View Research](https://docs.google.com/document/d/1kAa_PhRcDJj9RhgshT0hEacZ9l3p5aC2/edit?usp=drivesdk&ouid=106184793947238738531&rtpof=true&sd=true)
+
+### Arduino-Based rc controlled Boat
+Built a lightweight RC boat powered by dual 930KV BLDC drone motors with custom metal propellers and bicycle spoke shafts, using ESCs interfaced with an Arduino Nano and FlySky receiver for propulsion control.
+
+[View Project](https://github.com/hahahibaa/Arduino-nano-and-flight-controller-based-boat)
+
+### Line Follower Robot (PID Control)
+Built an autonomous line follower robot using infrared sensors and PID control to achieve precise path detection and stable navigation with real-time feedback.
+
+[View Project](https://github.com/hahahibaa/line-follower-robot-pid-control)
+
+### All Roads Lead to Rome – Servo & Sonar Experiment
+Developed a robotics experiment using servo motors and ultrasonic sensors to detect obstacles and dynamically adjust movement, demonstrating sensor integration and motion control.
+
+[View Project](https://github.com/hahahibaa/all-roads-lead-to-rome)
+
+### Secure Door Locking System
+Developed a hardware-based electronic door locking system focusing on secure access control, circuit reliability, and user safety using embedded electronics and sensor-based authentication.
+
+[View Project](https://github.com/hahahibaa/secure-door-locking-system)
+
+
+
+
 
 ---
 
