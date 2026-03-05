@@ -101,7 +101,7 @@ Designed and built a custom high-speed RC boat using drone motors and custom pro
 4th Place — NIT Bhopal Boat Racing Competition  
 Participated with an improved RC boat design focusing on propulsion efficiency and stability.
 
-2nd Place — Drone Soccer League, IIIT Indore  
+2nd Place — Drone Soccer League, IIIT Jabalpur
 Developed and operated a custom drone platform for competitive drone soccer, focusing on control systems and maneuverability.
 
 ---
