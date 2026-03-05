@@ -2,7 +2,9 @@
 **Engineering Student | Social Entrepreneur | Community Advocate**  
 
 📍 Jabalpur, India  
-🔗 LinkedIn:  https://www.linkedin.com/in/hiba-khan-8aa969233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### LinkedIn
+
+[View Profile](https://www.linkedin.com/in/hiba-khan-8aa969233)
 📧 Email: hibaleads5093@gmail.com
 
 ---
